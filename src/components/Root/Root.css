@@ -1,0 +1,11 @@
+.root{
+  max-width: 1280px;
+  margin-inline: 4rem;
+  
+}
+
+.root-main {
+  display: flex;
+  gap: 1rem;
+}
+
